@@ -1,2 +1,2 @@
 # secilstoretestcase
-Postman Ve JMeter Testleri ve Ekran Görüntüleri
+Postman, JMeter Testleri ve Ekran Görüntüleri
